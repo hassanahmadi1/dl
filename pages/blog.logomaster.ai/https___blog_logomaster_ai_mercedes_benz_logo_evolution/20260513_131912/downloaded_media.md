@@ -1,0 +1,18 @@
+## Downloaded Media Files
+
+![Mercedes-Benz%20logo-1909.jpg](./media/Mercedes-Benz%20logo-1909.jpg)
+![Mercedes-Benz%20logo-1916.jpg](./media/Mercedes-Benz%20logo-1916.jpg)
+![Mercedes-Benz%20logo-1926.jpg](./media/Mercedes-Benz%20logo-1926.jpg)
+![Mercedes-Benz%20logo-1933.jpg](./media/Mercedes-Benz%20logo-1933.jpg)
+![Mercedes-Benz%20logo-1989.jpg](./media/Mercedes-Benz%20logo-1989.jpg)
+![Mercedes-Benz%20logo-2011.jpg](./media/Mercedes-Benz%20logo-2011.jpg)
+![Mercedes-Benz%20logo-cover.jpg](./media/Mercedes-Benz%20logo-cover.jpg)
+![Mercedes-Benz%20logo-other1.jpg](./media/Mercedes-Benz%20logo-other1.jpg)
+![Mercedes-Benz%20logo-other2.jpg](./media/Mercedes-Benz%20logo-other2.jpg)
+![Mercedes-Benz%20logo-other3.jpg](./media/Mercedes-Benz%20logo-other3.jpg)
+![business-launch-1.jpg](./media/business-launch-1.jpg)
+![Lamborghini-logo-1.jpg](./media/Lamborghini-logo-1.jpg)
+![chevrolet-logo-cover.jpg](./media/chevrolet-logo-cover.jpg)
+- [favicon.ico](./media/favicon.ico) (7 KB)
+![ford-logo-emblem1.jpg](./media/ford-logo-emblem1.jpg)
+![logo.svg](./media/logo.svg)
