@@ -15,3 +15,4 @@
 - [https___1000logos_net_porsche_logo_ (20260513_141941)](pages/1000logos.net/https___1000logos_net_porsche_logo_/20260513_141941/index.md) â€” 73 media files
 - [https___1000logos_net_mitsubishi_logo_ (20260513_142638)](pages/1000logos.net/https___1000logos_net_mitsubishi_logo_/20260513_142638/index.md) â€” 52 media files
 - [https___1000logos_net_rolls_royce_logo_ (20260513_143122)](pages/1000logos.net/https___1000logos_net_rolls_royce_logo_/20260513_143122/index.md) â€” 54 media files
+- [https___www_vecteezy_com_vector_art_6401177_mountain_icon_in_simple_one_line_style (20260513_161749)](pages/vecteezy.com/https___www_vecteezy_com_vector_art_6401177_mountain_icon_in_simple_one_line_style/20260513_161749/index.md) â€” 5 media files
