@@ -9,3 +9,4 @@
 - [https___1000logos_net_mercedes_logo_ (20260513_132147)](pages/1000logos.net/https___1000logos_net_mercedes_logo_/20260513_132147/index.md) â€” 62 media files
 - [https___1000logos_net_toyota_logo_ (20260513_135308)](pages/1000logos.net/https___1000logos_net_toyota_logo_/20260513_135308/index.md) â€” 60 media files
 - [https___1000logos_net_mazda_logo_ (20260513_135854)](pages/1000logos.net/https___1000logos_net_mazda_logo_/20260513_135854/index.md) â€” 72 media files
+- [https___1000logos_net_mg_logo_ (20260513_140248)](pages/1000logos.net/https___1000logos_net_mg_logo_/20260513_140248/index.md) â€” 52 media files
